@@ -22,9 +22,9 @@ const styles = StyleSheet.create({
     marginBottom: 30,
   },
   timerText: {
-    color: 'black',
-    fontSize: 70,
-    fontWeight: '100',
+    color: 'white',
+    fontSize: 75,
+    fontWeight: '200',
   },
 });
 
