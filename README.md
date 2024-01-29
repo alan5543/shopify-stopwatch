@@ -1,3 +1,13 @@
+# StopWatch Design
+1. Start State
+<img width="321" alt="螢幕截圖 2024-01-29 上午1 10 00" src="https://github.com/alan5543/shopify-stopwatch/assets/79916645/9e5fdb62-938b-412d-aea1-280892a25127">
+2. Running State
+<img width="322" alt="螢幕截圖 2024-01-29 上午1 10 08" src="https://github.com/alan5543/shopify-stopwatch/assets/79916645/ba133f9f-f043-46a0-83e8-ce9007ce7d93">
+3. Lap Recording
+<img width="323" alt="螢幕截圖 2024-01-29 上午1 10 21" src="https://github.com/alan5543/shopify-stopwatch/assets/79916645/0a6dbbc4-3f22-40ad-ba0f-6ff5b424aaa7">
+4. Stop State
+<img width="322" alt="螢幕截圖 2024-01-29 上午1 10 33" src="https://github.com/alan5543/shopify-stopwatch/assets/79916645/8f64358b-b5d1-480d-8cfe-7e5135476bc5">
+
 # Technical Instructions
 1. Fork this repo to your local Github account.
 2. Create a new branch to complete all your work in.
